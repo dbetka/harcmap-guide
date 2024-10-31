@@ -1,25 +1,90 @@
+:root {
+  --primary-color: #53712e;
+}
+
 /* SIDEBAR */
 
-.sidebar-toggle:hover .sidebar-toggle-button {
+.hm .sidebar {
+  color: white;
+  background: var(--primary-color);
+}
+
+.hm .sidebar ul li a {
+  color: white;
+  opacity: .8;
+}
+
+.hm .sidebar ul li.active > a {
+  color: white;
+}
+
+/* SIDEBAR TOGGLE BUTTON */
+
+.hm .sidebar-toggle {
+  background: var(--primary-color);
+  width: 64px;
+  transition: all 0.3s;
+}
+
+.hm.close .sidebar-toggle {
+  background: transparent;
+}
+
+.hm .sidebar-toggle:hover .sidebar-toggle-button {
   opacity: 1;
 }
 
-.sidebar-toggle-button {
+.hm .sidebar-toggle-button {
   width: 64px;
   padding: 16px;
   margin-right: auto;
-  background: white;
   border-radius: 0.5rem;
+  background: transparent;
 }
 
-.sidebar-toggle span {
+.hm.close .sidebar-toggle-button {
+  background: white;
+  transition-delay: 0.5s;
+}
+
+.hm .sidebar-toggle span {
   width: 32px;
   height: 4px;
+  background: white;
+}
+
+.hm.close .sidebar-toggle span {
+  background: var(--primary-color);
 }
 
 /* SEARCH */
 
-.search input:focus {
+.hm .search {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+.hm .search .matching-post {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.hm .search input {
+  background: transparent;
+  color: white;
+}
+.hm .search input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+  opacity: 1; /* Firefox */
+}
+
+.hm .search input:focus {
   box-shadow: none !important;
-  border: none !important;
+  border-color: transparent !important;
+}
+
+.hm .search a {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.hm .search .search-keyword, .search a:hover {
+  color: white;
 }
