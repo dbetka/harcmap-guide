@@ -1,0 +1,25 @@
+/* SIDEBAR */
+
+.sidebar-toggle:hover .sidebar-toggle-button {
+  opacity: 1;
+}
+
+.sidebar-toggle-button {
+  width: 64px;
+  padding: 16px;
+  margin-right: auto;
+  background: white;
+  border-radius: 0.5rem;
+}
+
+.sidebar-toggle span {
+  width: 32px;
+  height: 4px;
+}
+
+/* SEARCH */
+
+.search input:focus {
+  box-shadow: none !important;
+  border: none !important;
+}
