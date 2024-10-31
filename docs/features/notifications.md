@@ -1,3 +1,3 @@
-# Aktualności
+# Aktualności w wydarzeniu
 
 ...
