@@ -1,5 +1,5 @@
 <a href="/#">
-  <img src="/harcmap.svg" alt="HarcMap logo" width="150" style="display: block; margin: auto">
+  <img src="harcmap.svg" alt="HarcMap logo" width="150" style="display: block; margin: auto">
 </a>
 
 * Szybki start
