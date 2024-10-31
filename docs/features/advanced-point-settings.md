@@ -1,0 +1,3 @@
+# Zaawansowane ustawienia punktu
+
+...

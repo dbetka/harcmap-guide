@@ -1,0 +1,3 @@
+# Zarządzanie kategoriami punktów
+
+...

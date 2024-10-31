@@ -1,0 +1,15 @@
+{
+  "name": "harcmap-guide",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbetka/harcmap-guide.git"
+  },
+  "scripts": {
+    "serve": "node node_modules/docsify-cli serve"
+  },
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
