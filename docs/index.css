@@ -118,3 +118,14 @@
 .hm .search .search-keyword, .search a:hover {
   color: white;
 }
+
+
+/* CONTENT */
+
+.github-corner svg {
+  fill: var(--primary-color);
+}
+
+.markdown-section {
+  padding-bottom: 120px;
+}
