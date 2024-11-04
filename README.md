@@ -2,6 +2,10 @@
 
 Ten projekt powstał by ułatwić dzielenie się wiedzą na temat HarcMapa. Jeśli chcesz pomóc w rozwijaniu tego projektu, podążaj za instrukcjami poniżej.
 
+## Link do projektu
+
+[https://guide.harcmap.pl/](https://guide.harcmap.pl/)
+
 ## Jak pomóc?
 
 1. Przejdź do [nowego zgłoszenia](https://github.com/dbetka/harcmap-guide/issues/new/choose).
