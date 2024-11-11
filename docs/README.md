@@ -6,5 +6,4 @@ Aplikacja ta jest przeznaczona do organizowania gier miejskich i terenowych w mi
 punktami zbieralnymi po GPS lub rzeczywistymi punktami w terenie – czteroznakowy kod na kartce.
 To daje możliwość, ciekawego schowania go w terenie i dania ku temu wskazówki w aplikacji w opisie punktu.
 
-Gdy już wiesz o nas trochę więcej, zapraszamy do zapoznania się listą artykułów w 
-<a style="text-decoration: underline; cursor: pointer;" onclick="document.querySelector('.close .sidebar-toggle-button').click()">menu</a>.
+Gdy już wiesz o nas trochę więcej, zapraszamy do zapoznania się listą artykułów w naszej dokumentacji.

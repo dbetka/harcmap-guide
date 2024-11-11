@@ -2,10 +2,7 @@
   <img src="assets/harcmap.svg" alt="HarcMap logo" width="150" style="display: block; margin: auto">
 </a>
 
-* Szybki start
-  * [Stworzenie wydarzenia](quick-start/create-event.md)
-  * [Zarządzanie kategoriami punktów](quick-start/categories-management.md)
-  * [Stworzenie punktu](quick-start/create-point.md)
+* [Szybki start](quick-start.md)
 
 * Funkcjonalności
   * [Zaawansowane ustawienia punktu](features/advanced-point-settings.md)
