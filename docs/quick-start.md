@@ -1,10 +1,10 @@
 # Szybki start
 
-## Instalacja
+### Instalacja
 
-Aby zainstalować HarcMap pobierz go z [Google Play](https://play.google.com/store/apps/details?id=pl.harcmap.app) lub [App Store](https://apps.apple.com/pl/app/harcmap/id1530392023).
+Możesz zainstalować aplikację HarcMap z [Google Play](https://play.google.com/store/apps/details?id=pl.harcmap.app) lub [App Store](https://apps.apple.com/pl/app/harcmap/id6449438768?l=pl).
 
-## Pierwsze kroki
+### Pierwsze kroki
 
 1. Po uruchomieniu aplikacji zobaczysz ekran powitalny. Kliknij przycisk "Zarejestruj się", aby utworzyć nowe konto.
 2. Wypełnij formularz rejestracyjny. Na podany adres e-mail zostanie wysłany link aktywacyjny.
@@ -13,7 +13,7 @@ Aby zainstalować HarcMap pobierz go z [Google Play](https://play.google.com/sto
    oraz ustaw pozycję mapy, którą zobaczą uczestnicy wydarzenia jako pierwszą po dołączeniu do wydarzenia. Kliknij przycisk "Zapisz".
 5. Wydarzenie zostało utworzone. Możesz teraz dodać punkty, przedmioty, zapraszać do wydarzenia i wiele innych.
 
-## Dodawanie punktów
+### Dodawanie punktów
 
 1. Otwórz dolne menu i wybierz zakładkę "Nowy punkt".
 2. Wypełnij konieczne pola:
@@ -29,10 +29,18 @@ Aby zainstalować HarcMap pobierz go z [Google Play](https://play.google.com/sto
    - Czas widoczności punktu
 4. Kliknij przycisk "Zapisz" i zobaczysz nowy punkt na mapie.
 
-## Zarządzanie kategoriami punktów
+### Zarządzanie kategoriami punktów
 
 1. Otwórz dolne menu i wybierz zakładkę "Kategorie punktów".
+2. Kliknij przycisk z trzema kropkami obok nazwy kategorii i edytuj ją.
+3. Możesz zmienić nazwę kategorii, jej kolor, obramowanie, wartość oraz opis, który będzie widoczny w szczegółach 
+   punktu oraz na liście kategorii.
+4. Kliknij przycisk "Zapisz" - wszystkie punkty tej kategorii zmienią swój wygląd, wartość i inne ustawienia.
 
-## Zaproszenie uczestników
+### Zaproszenie uczestników
 
 1. Otwórz dolne menu i wybierz zakładkę "Udostępnij wydarzenie".
+2. Wybierz jedną z ról uczestnika: Administrator, Obserwator, Lider Drużyny.
+3. Naciśnij przycisk "Kod zaproszenia" i wyślij go.
+4. Uczestnik, który otrzymał kod, musi go wpisać w aplikacji po naciśnięciu "Dołącz do wydarzenia" i uzupełnieniu 
+   niezbędnych informacji.

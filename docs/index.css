@@ -9,12 +9,19 @@
   background: var(--primary-color);
 }
 
-.hm .sidebar ul li a {
+.hm .sidebar .sidebar-nav > ul > li > p > a {
+  color: white;
+  font-weight: 700;
+  font-size: 15px;
+  opacity: 1;
+}
+
+.hm .sidebar ul ul li a {
   color: white;
   opacity: .8;
 }
 
-.hm .sidebar ul li.active > a {
+.hm .sidebar ul ul li.active > a {
   color: white;
 }
 
