@@ -19,7 +19,7 @@ ___
    ![Przycisk Aktualności](../assets/notifications/example-menu-inactive.png "Przycisk Aktualności")
 ##### 2. Naciśnij przycisk "Dodaj nową aktualność".  
 ##### 3. Wypełnij formularz i zapisz:
-   - **Tytuł** (wymagane): krótka nazwa aktualności (maksymalnie 50 znaków)
+   - **Tytuł** (wymagane): krótka nazwa aktualności (maksymalnie 45 znaków)
    - **Priorytet** (wymagane): wybierz priorytet aktualności
      - **Nieistotne**: uczestnicy zostaną poinformowani o nim tylko w formie migającej kropki na dzwonku powiadomień
      - **Średnioważne**: uczestnicy otrzymają powiadomienie w formie paska na górze ekranu, który zniknie po kilku sekundach
