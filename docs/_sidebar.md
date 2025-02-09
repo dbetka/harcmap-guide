@@ -5,7 +5,7 @@
 * [Szybki start](quick-start.md)
 
 * Funkcjonalności
-  * [Aktualności w wydarzeniu (wkrótce)](features/notifications.md)
+  * [Aktualności w wydarzeniu (wkrótce)](features/notifications.md#aktualności-w-wydarzeniu-wkrótce-dostępne)
     * [Przykładowy wygląd aktualności](features/notifications.md#przykładowy-wygląd-aktualności)
     * [Jak wysłać aktualności?](features/notifications.md#jak-wysłać-aktualności)
     * [Jak zarządzać aktualnościami?](features/notifications.md#jak-zarządzać-aktualnościami)
