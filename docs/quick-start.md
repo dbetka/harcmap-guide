@@ -1,4 +1,5 @@
 # Szybki start
+Autor: **Dominik Betka**
 
 ### Instalacja
 

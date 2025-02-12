@@ -1,7 +1,9 @@
 # Aktualności w wydarzeniu (wkrótce dostępne)
+Autor: **Dominik Betka**
 
 Aktualności w wydarzeniu to funkcjonalność, która pozwala na wysyłanie powiadomień do uczestników wydarzenia.
 Dzięki temu uczestnicy będą mogli otrzymywać informacje o zmianach w wydarzeniu, nowych punktach, przedmiotach, zadaniach oraz innych ważnych informacjach.
+
 
 ## Przykładowy wygląd aktualności
 
