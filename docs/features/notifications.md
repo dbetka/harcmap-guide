@@ -1,4 +1,4 @@
-# Aktualności w wydarzeniu (wkrótce dostępne)
+# Aktualności w wydarzeniu
 Autor: **Dominik Betka**
 
 Aktualności w wydarzeniu to funkcjonalność, która pozwala na wysyłanie powiadomień do uczestników wydarzenia.
