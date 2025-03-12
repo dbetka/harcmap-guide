@@ -5,12 +5,12 @@
 * [Szybki start](quick-start.md)
 
 * Funkcjonalności
-  * [Zaawansowane ustawienia punktu](features/advanced-point-settings.md)
+  * [Zaawansowane ustawienia punktu](features/advanced-point-settings.md?id=zaawansowane-ustawienia-punktu)
   * [Aktualności w wydarzeniu](features/notifications.md#aktualności-w-wydarzeniu)
     * [Przykładowy wygląd aktualności](features/notifications.md#przykładowy-wygląd-aktualności)
     * [Jak wysłać aktualności?](features/notifications.md#jak-wysłać-aktualności)
     * [Jak zarządzać aktualnościami?](features/notifications.md#jak-zarządzać-aktualnościami)
-  * [Plecak drużyny](features/backpack.md)
+  * [Plecak drużyny](features/backpack.md?id=plecak-drużyny)
 
 
 [//]: # (  * [Zarządzanie użytkownikami]&#40;features/users-management.md&#41;)
