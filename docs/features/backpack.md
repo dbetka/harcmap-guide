@@ -9,7 +9,7 @@ Pozwala ona drużynom zbierać przedmioty podczas rozgrywki, które przyznają d
    - Nazwa przedmiotu – Nazwa przedmiotu widoczna dla graczy
    - Opis przedmiotu – Opis przedmiotu widoczny dla graczy
    - Ilość punktów – Ilość dodatkowych (lub ujemnych!) punktów, które są dodawane do ostatecznego wyniku drużyny
-   - Obrazek przedmiotu – Obrazek widoczny dla użytkowników, możliwe jest użycie predefiniowanych obrazków dostępnych w aplikacji lub unicode https://symbl.cc/
+   - Obrazek przedmiotu – Obrazek widoczny dla użytkowników, możliwe jest użycie predefiniowanych obrazków dostępnych w aplikacji, adresu URL lub unicode https://symbl.cc/
 2) Admini mogą przypisywać i odbierać przedmioty drużynom
 3) Admini mogą przeglądać listę przedmiotów w grze wraz z informacją o przypisaniach do poszczególnych drużyn
 4) Admini mogą dodawać przedmioty jako dodatkowa nagroda po zebraniu punktu, która automatycznie trafi do plecaka drużyny
