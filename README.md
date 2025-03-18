@@ -1,10 +1,10 @@
-# Przewodnik po HarcMapie
+# Przewodnik po Let's Map
 
-Ten projekt powstał by ułatwić dzielenie się wiedzą na temat HarcMapa. Jeśli chcesz pomóc w rozwijaniu tego projektu, podążaj za instrukcjami poniżej.
+Ten projekt powstał by ułatwić dzielenie się wiedzą na temat Let's Map. Jeśli chcesz pomóc w rozwijaniu tego projektu, podążaj za instrukcjami poniżej.
 
 ## Link do projektu
 
-[https://guide.harcmap.pl/](https://guide.harcmap.pl/)
+[https://guide.letsmap.pl/](https://guide.letsmap.pl/)
 
 ## Jak pomóc?
 

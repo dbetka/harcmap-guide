@@ -13,4 +13,4 @@
 Poniżej znajdziesz przykładowy formularz tworzenia wydarzenia.
 Wypełnij wszystkie pola, a następnie ustaw pozycję mapy, a następnie kliknij przycisk "Zapisz".
 
-<img src="assets/create-event-1.png" alt="HarcMap logo" width="400" style="max-width: 100%; display: block; margin: auto">
+<img src="assets/create-event-1.png" alt="Let's Map logo" width="400" style="max-width: 100%; display: block; margin: auto">

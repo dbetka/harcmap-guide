@@ -1,6 +1,6 @@
-# Przewodnik po HarcMapie
+# Przewodnik po Let's Map
 
-Jeśli jesteś tu po raz pierwszy, zacznij od przeczytania [o naszej aplikacji](https://harcmap.pl/).
+Jeśli jesteś tu po raz pierwszy, zacznij od przeczytania [o naszej aplikacji](https://letsmap.pl/).
 
 Aplikacja ta jest przeznaczona do organizowania gier miejskich i terenowych w miejscach z dostępem do internetu z 
 punktami zbieralnymi po GPS lub rzeczywistymi punktami w terenie – czteroznakowy kod na kartce.

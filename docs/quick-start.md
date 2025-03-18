@@ -3,7 +3,7 @@ Autor: **Dominik Betka**
 
 ### Instalacja
 
-Możesz zainstalować aplikację HarcMap z [Google Play](https://play.google.com/store/apps/details?id=pl.harcmap.app) lub [App Store](https://apps.apple.com/pl/app/harcmap/id6449438768?l=pl).
+Możesz zainstalować aplikację Let's Map z [Google Play](https://play.google.com/store/apps/details?id=pl.harcmap.app) lub [App Store](https://apps.apple.com/pl/app/harcmap/id6449438768?l=pl).
 
 ### Pierwsze kroki
 
